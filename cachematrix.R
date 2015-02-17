@@ -7,6 +7,11 @@
 
 ## Write a short comment describing this function
 
+##the make cache function does the following:
+##  set the value of the inverse matrix (null at first)
+##  gets the value of the matrix to be reversed
+## sets and gets the inverse matrix
+
 makeCacheMatrix <- function(x = matrix()) {
 
 }
